@@ -7,6 +7,8 @@ Practice in Gethub
 
 -ABSTRACT:
 
-<img src="https://user-images.githubusercontent.com/42392736/103594700-1ec9c280-4f02-11eb-877c-4f898ede16c4.png" width="300" height="500">
+
+<img src="https://user-images.githubusercontent.com/42392736/103649250-d2fd3480-4f66-11eb-8b44-2822dd7887c7.png" width="500" height="500">
+
 
 It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com)
