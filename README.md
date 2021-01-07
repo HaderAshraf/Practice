@@ -24,7 +24,7 @@
 </ul>
 <h3>we choose the unipolar stepper motor:</h3>
 <h5>Unipolar stepping motors have a center tap wired to the positive supply on each of two windings. The two ends of each winding are alternately grounded to reverse the direction of the magnetic field. The rotor would require proportionally more poles for higher angular resolutions. 30 degree per step motor is a common permanent magnet motor design. Control sequences in the windings spin the motor. The magnet is rotated one step at a time and the two halves of each winding are never energized at the same time.</h5>
-<img src="https://user-images.githubusercontent.com/42392736/103835654-86f9df00-508f-11eb-88d8-351e95dffd56.png" width="500" height="500">
+<img src="https://user-images.githubusercontent.com/42392736/103836193-02a85b80-5091-11eb-8146-49a13cbb3036.jpg" width="350" height="300">
 
 
 
