@@ -29,7 +29,10 @@
 <h4>The ULN2003A is an array of seven NPN Darlington transistors capable of 500 mA, 50 V output. It features common-cathode flyback diodes for switching inductive loads.</h4>
 <img src="https://user-images.githubusercontent.com/42392736/103940688-6e90cf80-5136-11eb-93fb-060149a6cfc3.jpeg" width="350" height="350">
 <h3>The connection between stepper motor and ULN2003A motor driver:</h3>
-
+<h4>If the driver take high inpit the output will be low, then the coil in stepper motor will energize because 2,5 connected to supply.</h4>
+<img src="https://user-images.githubusercontent.com/42392736/103941080-04c4f580-5137-11eb-8321-8c2f3d31264e.jpeg" width="500" height="350">
+<h4>The table below illustrate the word wich we give to driver to move the stepper motor to the corresponding angle:  </h4>
+<img src="https://user-images.githubusercontent.com/42392736/103941080-04c4f580-5137-11eb-8321-8c2f3d31264e.jpeg" width="500" height="350">
 
 <h1>:point_right:Programmable peripheral interface 8255</h1>
 <h4>PPI 8255 is a general purpose programmable I/O device designed to interface the CPU with its outside world. It consists of three 8-bit bidirectional I/O ports i.e. PORT A, PORT B and PORT C. We can assign different ports as input or output functions. It consists of 40 pins each port has 8 pins and operates in +5V regulated power supply.</h4>
