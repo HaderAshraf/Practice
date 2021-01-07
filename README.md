@@ -31,4 +31,6 @@
 <h4>Depending upon the value if CS’, A1 and A0 we can select different ports in different modes as input-output function or BSR. This is done by writing a suitable word in control register (control word D0-D7).</h4>
 <img src="https://user-images.githubusercontent.com/42392736/103838495-dfcc7600-5095-11eb-9521-2b9796aadb39.PNG" width="350" height="350">
 <img src="https://user-images.githubusercontent.com/42392736/103839133-603fa680-5097-11eb-848d-01f3b30570c4.jpeg" width="370" height="370">
-
+<h1>:point_right:74HC373 latch</h1>
+<h4>We use 74HC373 latch to latch the address of wanted port in 8255A PPI from microprocessor and then send the data to this port</h4>
+<h4>The 74HC373D is an octal transparent D Latch with 3-state outputs. It features LE and OE\ inputs. When LE is high, data at the inputs enter the latches. In this condition the latches are transparent, a latch output will change each time its corresponding D-input changes. When LE is low the latches store the information that was present at the inputs a set-up time preceding the high-to-low transition of LE. A high on OE\ causes the outputs to assume a high-impedance OFF-state. Operation of the OE\ input does not affect the state of the latches. Inputs include clamp diodes. This enables the use of current limiting resistors to interface inputs to voltages in excess of VCC.</h4>
