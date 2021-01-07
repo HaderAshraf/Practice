@@ -27,7 +27,8 @@
 <img src="https://user-images.githubusercontent.com/42392736/103836193-02a85b80-5091-11eb-8146-49a13cbb3036.jpg" width="350" height="300">
 <h1>:point_right:Programmable peripheral interface 8255</h1>
 <h4>PPI 8255 is a general purpose programmable I/O device designed to interface the CPU with its outside world. It consists of three 8-bit bidirectional I/O ports i.e. PORT A, PORT B and PORT C. We can assign different ports as input or output functions. It consists of 40 pins each port has 8 pins and operates in +5V regulated power supply.</h4>
-
+<img src="https://user-images.githubusercontent.com/42392736/103838041-b95a0b00-5094-11eb-9662-3358d5a6b94b.png" width="250" height="400">
+<h4>Depending upon the value if CS’, A1 and A0 we can select different ports in different modes as input-output function or BSR. This is done by writing a suitable word in control register (control word D0-D7).</h4>
 
 
 
