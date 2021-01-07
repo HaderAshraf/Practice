@@ -34,6 +34,6 @@
 <h1>:point_right:74HC373 latch</h1>
 <h4>We use 74HC373 latch to latch the address of wanted port in 8255A PPI from microprocessor and then send the data to this port.</h4>
 <h4>The 74HC373 is an octal D-type transparent latch featuring separate D-type  inputs for each latch and 3-state outputs for bus oriented applications. A latch enable (LE) input and an output enable (OE) input are common to all latches.</h4>
-<img src="https://user-images.githubusercontent.com/42392736/103841756-00e49500-509d-11eb-984f-0e9ff08379a1.jpg" width="250" height="250">
+<img src="https://user-images.githubusercontent.com/42392736/103842706-30949c80-509f-11eb-8858-4bda201a7061.jpg" width="250" height="250">
 
 
