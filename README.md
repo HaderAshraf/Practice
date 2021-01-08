@@ -61,7 +61,9 @@
 <h4>We use common cathode seven segment and the figures below illustrate the how turn on the wanted leds of seven segment.</h4>
 <img src="https://user-images.githubusercontent.com/42392736/103959138-862c8000-5157-11eb-8cb9-e51969026dd3.jpeg" width="350" height="300">
 <img src="https://user-images.githubusercontent.com/42392736/103959143-8a589d80-5157-11eb-8677-5f6a2e74f945.jpeg" width="600" height="125">
-
+<h1>:point_right:Used software</h1>
+<h4>1- Protues </h4>
+<h4>2- 8086 emulator with MASM </h4>
 <h1>:point_right:Final output</h1>
 <img src="https://user-images.githubusercontent.com/42392736/103961141-8713e080-515c-11eb-9ff0-15708af2aea9.jpeg" width="900" height="500">
 
