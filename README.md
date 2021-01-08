@@ -68,9 +68,9 @@
 <h3>Click <a href="https://drive.google.com/drive/folders/1z2TzqNHUqyom_a3JSKWFnRi2yTt0ns6R?fbclid=IwAR1vklL28VaapCjOJnxKrqtcrWCAHoyKdaGmzMS5CzshH2tQiasO6wQ6pFI">here</a> to show the simulation video</h3>
 
 <h1>:point_right:Collabrators</h1>
-<h4>Mostafa mokhtar
-    Hader Ashraf
-    Mohamed Mahmoud
-    Salah Rasmy
-    Michael Magdy</h4>
+<h4>Mostafa mokhtar</h4>
+<h4>Hader Ashraf</h4>
+<h4>Mohamed Mahmoud</h4>
+<h4>Salah Rasmy</h4>
+<h4>Michael Magdy</h4>
 
