@@ -24,7 +24,7 @@
 </ul>
 <h3>we choose the unipolar stepper motor:</h3>
 <h4>Unipolar stepping motors have a center tap wired to the positive supply on each of two windings. The two ends of each winding are alternately grounded to reverse the direction of the magnetic field. The rotor would require proportionally more poles for higher angular resolutions. 30 degree per step mot4or is a common permanent magnet motor design. Control sequences in the windings spin the motor. The magnet is rotated one step at a time and the two halves of each winding are never energized at the same time.</h4>
-<img src="https://user-images.githubusercontent.com/42392736/103836193-02a85b80-5091-11eb-8146-49a13cbb3036.jpg" width="350" height="300">
+<img src="https://user-images.githubusercontent.com/42392736/103959149-92184200-5157-11eb-8fca-cd4cdd7c1ea3.jpg" width="450" height="300">
 <h1>:point_right:ULN2003A motor driver </h1>
 <h4>The ULN2003A is an array of seven NPN Darlington transistors capable of 500 mA, 50 V output. It features common-cathode flyback diodes for switching inductive loads.</h4>
 <img src="https://user-images.githubusercontent.com/42392736/103940688-6e90cf80-5136-11eb-93fb-060149a6cfc3.jpeg" width="350" height="350">
@@ -50,8 +50,14 @@
 <img src="https://user-images.githubusercontent.com/42392736/103951933-32ff0100-5148-11eb-8927-67fb7010e5b0.jpg" width="350" height="300">
 
 <h1>:point_right:Seven segment </h1>
-<h4>We use seven segment as indecator for the mode of the speed if motor if we press the stop button the seven segment will display S, if we press half speed button the seven segment will display H and if we press the full speed button it will display F.</h4>
+<h4>We use seven segment as indecator for the mode of the speed of motor if we press the stop button the seven segment will display S, if we press half speed button the seven segment will display H and if we press the full speed button it will display F.</h4>
 <h4>We use common cathode seven segment and the figures below illustrate the how turn on the wanted leds of seven segment.</h4>
+<img src="https://user-images.githubusercontent.com/42392736/103959138-862c8000-5157-11eb-8cb9-e51969026dd3.jpeg" width="350" height="300">
+<img src="https://user-images.githubusercontent.com/42392736/103959143-8a589d80-5157-11eb-8677-5f6a2e74f945.jpeg" width="600" height="125">
+
+
+
+
 
 
 
