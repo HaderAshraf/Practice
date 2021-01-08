@@ -68,9 +68,15 @@
 <h3>Click <a href="https://drive.google.com/drive/folders/1z2TzqNHUqyom_a3JSKWFnRi2yTt0ns6R?fbclid=IwAR1vklL28VaapCjOJnxKrqtcrWCAHoyKdaGmzMS5CzshH2tQiasO6wQ6pFI">here</a> to show the simulation video</h3>
 
 <h1>:point_right:Collabrators</h1>
-<h4>Mostafa mokhtar</h4>
-<h4>Hader Ashraf</h4>
-<h4>Mohamed Mahmoud</h4>
-<h4>Salah Rasmy</h4>
-<h4>Michael Magdy</h4>
-
+<ul>
+  <li><h3>Mostafa mokhtar</h3></li>
+  mostafa160875@feng.bu.edu.eg
+  <li><h3>Hader Ashraf</h3></li>
+  hadeer160958@feng.bu.edu.eg
+  <li><h3>Mohamed Mahmoud</h3></li>
+  mohamed160733@feng.bu.edu.eg
+  <li><h3>Salah Rasmy</h3></li>
+  salah160393@feng.bu.edu.eg
+  <li><h3>Michael Magdy</h3></li>
+  Mikael160570@feng.bu.edu
+</ul>
