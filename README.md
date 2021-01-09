@@ -1,4 +1,4 @@
-play
+play__hi
 
 <h1>:point_right:Project idea </h1>
 <h3>First idea:</h3>
