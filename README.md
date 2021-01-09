@@ -1,6 +1,6 @@
 <h1>:point_right:Project idea </h1>
 <h3>First idea:</h3>
-<h4> The main idea of this project is that we control the stepper motor speed through two modes half speed and full speed and we can also control its shutdown using three switches and show the current mode in seven segment. </h4>
+<h4>The main idea of this project is that we control the stepper motor speed through three switches. First one to stop the stepper motor, Second one to activate the half-speed mode, and the third one to activate the full-speed mode. Also, the current mode of stepper motor will be displayed on the seven-segment. </h4>
 <h3>Second idea:</h3>
 <h4>We control the speed of stepper motor through potentiometer, the potentiometer adjust the speed to zero (stop), half speed, full speed or in between.</h4>
 <h1>:point_right:Used components </h1>
@@ -81,6 +81,7 @@
 <img src="https://user-images.githubusercontent.com/42392736/103961141-8713e080-515c-11eb-9ff0-15708af2aea9.jpeg" width="900" height="500">
 
 <h1>:point_right:Final output of second idea</h1>
+<img src="https://user-images.githubusercontent.com/42392736/104081018-b8f87600-5234-11eb-9e10-e30cf76a30b7.jpeg" width="900" height="500">
 
 <h3>Click <a href="https://drive.google.com/drive/folders/1z2TzqNHUqyom_a3JSKWFnRi2yTt0ns6R?fbclid=IwAR1vklL28VaapCjOJnxKrqtcrWCAHoyKdaGmzMS5CzshH2tQiasO6wQ6pFI">here</a> to show the simulation video</h3>
 
