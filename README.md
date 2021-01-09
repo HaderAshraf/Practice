@@ -1,7 +1,8 @@
 <h1>:point_right:Project idea </h1>
-<h3><b>First idea:</b></h3>
+<h3>First idea:</h3>
 <h4> The main idea of this project is that we control the stepper motor speed through two modes half speed and full speed and we can also control its shutdown using three switches and show the current mode in seven segment. </h4>
-
+<h3>Second idea:</h3>
+<h4>We control the speed of stepper motor through potentiometer, the potentiometer adjust the speed to zero (stop), half speed, full speed or in between.</h4>
 <h1>:point_right:Used components </h1>
 <ul><h4>
   <li> 8086 Microprocessor </li>
@@ -11,6 +12,8 @@
   <li> Unipolar Stepper motor </li>
   <li> switch (3) </li>
   <li> 7-Segment-com-cath </li>
+  <li> Potentiometer</li>
+  <li> ADC0804</li>
   </h4>
 </ul>
 
@@ -57,14 +60,22 @@
 <h4>The 74HC373 is an octal D-type transparent latch featuring separate D-type  inputs for each latch and 3-state outputs for bus oriented applications. A latch enable (LE) input and an output enable (OE) input are common to all latches.</h4>
 <img src="https://user-images.githubusercontent.com/42392736/103951933-32ff0100-5148-11eb-8927-67fb7010e5b0.jpg" width="350" height="300">
 
-<h1>:point_right:Seven segment </h1>
+<h1>:point_right:Seven segment (only used in first idea)</h1>
 <h4>We use seven segment as indecator for the mode of the speed of motor if we press the stop button the seven segment will display S, if we press half speed button the seven segment will display H and if we press the full speed button it will display F.</h4>
 <h4>We use common cathode seven segment and the figures below illustrate the how turn on the wanted leds of seven segment.</h4>
 <img src="https://user-images.githubusercontent.com/42392736/103959138-862c8000-5157-11eb-8cb9-e51969026dd3.jpeg" width="350" height="300">
 <img src="https://user-images.githubusercontent.com/42392736/103959143-8a589d80-5157-11eb-8677-5f6a2e74f945.jpeg" width="600" height="125">
+
+<h1>:point_right:ADC0804 (only used in second idea)</h1>
+<h4>We use ADC0804 to convert analog voltage from potentiometer to digital Byte, RD is always 0 to read the input voltage and WR is activated by microprocessor to write output with Consideration of conversion time. We use the internal clock so, we don't need CLK 1N and CLK R pins. VREF/2 connected to 2.5V</h4>
+<h4>The delay between each step is determined by the value of potentiopmeter</h4>
+<h4>The conversion equation is : Delay = -8*ADC reading + 3070</h4>
+
+
 <h1>:point_right:Used software</h1>
 <h4>1- Protues </h4>
 <h4>2- 8086 emulator with MASM </h4>
+
 <h1>:point_right:Final output</h1>
 <img src="https://user-images.githubusercontent.com/42392736/103961141-8713e080-515c-11eb-9ff0-15708af2aea9.jpeg" width="900" height="500">
 
